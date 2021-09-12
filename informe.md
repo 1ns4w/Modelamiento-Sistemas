@@ -23,14 +23,17 @@ El objetivo de  Lorem Ipsum, es tener contactos para poder encontrar trabajo, co
 ## 3. Posicionamiento  
 
 ### 3.1 Oportunidad de Negocio/Solución al problema identificado. 
-Esta plataforma de reclutamiento apoyará a profesionales en la búsqueda de empleos a partir de categorías y puestos de trabajo preestablecidos los cuales serán actualizados permanentemente a causa del surgimiento de nuevos roles en distintos campos profesionales. Así mismo, los reclutadores se compreteran a brindar la retroalimentación correspondiente a quellos postulantes que no logren seguir el proceso de selección, lo cual no suele suceder al postular un puesto de trabajo, por lo que los postulantes no pueden mejorar. Por otro lado, al ser el proceso de reclutamiento gestionado por nosotros, las empresas dentro de la plataforma se beneficieran en lo que respecta al ahorro de costes teniendo la oportunidad de indexar sus anuncios en el top de las ofertas de trabajo contratando un servicio premium.
+Esta plataforma de reclutamiento apoyará a profesionales en la búsqueda de empleos a partir de categorías y puestos de trabajo preestablecidos los cuales serán actualizados permanentemente a causa del surgimiento de nuevos roles en distintos campos profesionales. Así mismo, los reclutadores se compreteran a brindar la retroalimentación correspondiente a aquellos postulantes que no logren ser contratados, lo cual no suele suceder al postular un puesto de trabajo, por lo que los postulantes no pueden mejorar. Por otro lado, al ser el proceso de reclutamiento gestionado por nosotros, las empresas dentro de la plataforma se beneficieran en lo que respecta al ahorro de costes teniendo la oportunidad de indexar sus anuncios en el top de las ofertas de trabajo contratando un servicio premium.
 
 
 ### 3.2 Problemáticas identificadas  
+
+```
 - Exigirá una actualización constante debido al soporte de la red social.
 - Presencia de perfiles sospechosos
 - Baja seguridad de la información personal
 - Spam por todos lados
+```
 
 ## 4. Descripción de Stakeholders (Participantes en el Proyecto) y Usuarios  
 
