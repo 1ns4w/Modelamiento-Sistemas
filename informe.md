@@ -1,7 +1,7 @@
 ## 1. Introducción  
 
 ### 1.1. Propósito  
-Lorem Ipsum es una red social de carácter profesional por excelencia. Tiene como fin poner en contacto a personas que buscan empleo con empresas que demandan trabajadores. Es una red muy interesante porque pone en valor al profesional. La persona ya no es solo un demandante de trabajo, sino un profesional que puede ser interesante para las empresas,además de ello se pueden programar reuniones en la misma plataforma para agilizar el proceso se selección, finalizada esta se adjuntará el porqué fue aceptado/rechazo por dicha compañia.Esto ayudará a los profesionales a mejorar y a estar preparados para sus próximos encuentros con las empresas.
+Servir como intermediario a personas que buscan empleo con empresas que demandan trabajadores facilitando la la ejecución del proceso de reclutamiento de trabajadores dentro de la misma plataforma para la disrupción del método tradicional de contratación de personal modificando este proceso en beneficio de los postulantes para brindarles mayores oportunidades de ser contratados.
 
 ### 1.2. Definiciones, Acrónimos, y Abreviaciones
 - Reclutador: Aquel profesional cuya función consiste en buscar talento humano para cubrir los puestos de trabajo de una empresa.	
