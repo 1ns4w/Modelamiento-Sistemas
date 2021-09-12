@@ -4,7 +4,7 @@
 Lorem Ipsum es una red social de carácter profesional por excelencia. Tiene como fin poner en contacto a personas que buscan empleo con empresas que demandan trabajadores. Es una red muy interesante porque pone en valor al profesional. La persona ya no es solo un demandante de trabajo, sino un profesional que puede ser interesante para las empresas,además de ello se pueden programar reuniones en la misma plataforma para agilizar el proceso se selección, finalizada esta se adjuntará el porqué fue aceptado/rechazo por dicha compañia.Esto ayudará a los profesionales a mejorar y a estar preparados para sus próximos encuentros con las empresas.
 
 ### 1.2. Definiciones, Acrónimos, y Abreviaciones
-LOREM IPSUM	
+- Reclutador: Aquel profesional cuya función consiste en buscar talento humano para cubrir los puestos de trabajo de una empresa.	
 
 ## 2.  	Entorno  
 
@@ -15,7 +15,7 @@ Lorem ipsum. Somos una empresa peruana de diseño de soluciones digitales para e
 La misión de Lorem Ipsum es conectar a profesionales de todo el mundo para acelerar el éxito tanto de ellos mismos como el de las empresas a las cuales postulan. Porque considera que en una economía global conectada, tu éxito como profesional y competitividad como empresa dependen de un acceso más rápido a conocimientos y recursos en los que puedes confiar. Posterior a ello se le brinda facilidad a los usuarios/profesionales para postular a un puesto concreto de la empresa y realizar entrevistas pactadas desde la misma red social.
 
 ### 2.3. Visión. 
-Ser la plataforma de ofertas de trabajo más utilizada tanto por reclutadores de distintas empresa como aquellas personas con miras a la obtención de un puesto de trabajo. 
+Ser la plataforma de ofertas de trabajo más utilizada tanto por reclutadores de distintas empresa como aquellas personas con miras a la obtención de un puesto de trabajo tanto en la web, como en dispositivos móviles al proponer el desarrollo de la versión móvil de nuestro sitio con la premisa de  aumentar el alcance de nuestra solución en el espectro.
 
 ### 2.4. Objetivos estratégicos de la organización. 
 El objetivo de  Lorem Ipsum, es tener contactos para poder encontrar trabajo, consultar dudas sobre el sector requerido,tener publicaciones que tengan que ver con nuestro trabajo y nos resulten útiles, o si somos entrevistadores y reclutadores de nuestra empresa, encontrar al candidato adecuado mediante un perfil concreto que cumpla que las cualidades que necesita la compañía.
